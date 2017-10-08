@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/cyberplanner/rest_api_node_mongo/issues"
   },
-  "homepage": "https://github.com/cyberplanner/rest_api_node_mongo#readme"
+  "homepage": "https://github.com/cyberplanner/rest_api_node_mongo#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
 }
