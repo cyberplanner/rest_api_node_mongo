@@ -25,5 +25,8 @@
   "homepage": "https://github.com/cyberplanner/rest_api_node_mongo#readme",
   "devDependencies": {
     "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
   }
 }
